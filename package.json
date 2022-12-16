@@ -3,6 +3,6 @@
     "test": "testem"
   },
   "dependencies": {
-    "testem": "^3.0.0"
+    "testem": "^3.10.0"
   }
 }
